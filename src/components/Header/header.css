@@ -1,0 +1,32 @@
+.header{
+    text-align: center;
+    display: block;
+    
+}
+.header img{
+    height: 80px;
+}
+.nav{
+    background-color: black;
+    height: 60px;
+    align-content: center;
+    display: block;
+}
+.header .nav ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    
+    
+}
+.header .nav ul li:hover{
+    background-color: rgb(100, 100, 99);
+    transition: 0.5s all ease;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px;
+    margin-right: 10px;
+    align-items: center;
+    
+}
