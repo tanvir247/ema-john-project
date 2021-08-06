@@ -1,0 +1,16 @@
+.pDetail{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin: 10px;
+}
+.images{
+    float: left;
+    margin-right: 20px;
+}
+button{
+    width:120px;
+    background-color: yellow;
+    cursor:pointer;
+    padding:10px;
+    margin-bottom:5px;
+}
